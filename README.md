@@ -1,1 +1,1 @@
-# HAO-priject
+# HAO-project
